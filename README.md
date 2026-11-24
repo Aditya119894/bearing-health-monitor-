@@ -18,7 +18,6 @@ Motor bearings wear gradually, then fail suddenly, causing breakdowns and lost p
 - Motor slowed to 40%
 - No false alarm before the fault
 
-![Results](results.png)
 
 ## Run
 pip install numpy scipy scikit-learn matplotlib imageio imageio-ffmpeg pillow
